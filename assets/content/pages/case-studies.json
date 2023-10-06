@@ -1,0 +1,112 @@
+{
+    "pageTitle": "Case Studies",
+    "pageBlocks": [
+        {
+            "heroEntryTitle": "Case Studies Hero",
+            "heroTitle": "Case Studies",
+            "heroImage": "\/\/images.ctfassets.net\/019o4x34ndl7\/2EEVafbIfYe6WSGAE8iIcq\/a43460d55056bad7fcf03bc02980e388\/cs-hero.jpg",
+            "sectionType": "HeroSection",
+            "sysMeta": {
+                "createdAt": "2017-06-16T04:16:36.827Z",
+                "updatedAt": "2017-06-16T04:16:36.827Z",
+                "contentType": "hero"
+            }
+        },
+        {
+            "blockEntryTitle": "Taylor Hill & Bond Reduces time to searches ordered by 61%",
+            "caseStudyPost": {
+                "caseStudyTitle": " Taylor Hill & Bond Reduces time to searches ordered by 61%",
+                "slug": "taylor-hill-n-bond-reduces-time-to-search-ordered-by-61-percents",
+                "caseStudyImage": "\/\/images.ctfassets.net\/019o4x34ndl7\/7qO8j8MXcsEWMg2uKquUGk\/056c55f0132ee439b8ca518aed3a5630\/THB-2017-Logo-1-e1496314902531.jpg",
+                "caseStudyExcerpt": "Taylor Hill & Bond pride themselves on delivering great a customer experience to home buyers and was looking for ways to be a key differentiator in a crowded market and boost customer satisfaction.",
+                "caseStudyKeys": [
+                    {
+                        "keyEntryTitle": "The Problem - TaylorHill",
+                        "keyTitle": "The Problem",
+                        "keyBody": "\u201cOur company focuses on delivering great customer service and the next level in customer experience, so we look at all the little things we can do for our customers to over-deliver. We decided to trial View My Chain because we wanted to try and improve our sales progression department. It\u2019s a key area of the business; a lot agents fall down on their post-sale care. Also, other processes and systems we\u2019ve used don\u2019t allow the client to have any visuals \u2013 so they don\u2019t see what we are doing for them.\u201d",
+                        "sysMeta": {
+                            "createdAt": "2017-09-29T03:33:07.212Z",
+                            "updatedAt": "2017-09-29T03:33:07.212Z",
+                            "contentType": "caseStudyKey"
+                        }
+                    },
+                    {
+                        "keyEntryTitle": "The Solution - TaylorHill",
+                        "keyTitle": "The Solution",
+                        "keyBody": "\u201cWith View My Chain, clients can actually log in and control what they are seeing. It also allows them to get reassurance as to what we are doing for them on a day-to-day basis. We really like the fact you can see a snapshot of the whole chain very quickly and easily. For senior staff who aren\u2019t necessarily involved in the day-to-day chasing of the sales progression, it\u2019s important to be able to see all the trigger points quickly, and also to be able to see all the areas that need extra work.\u201d",
+                        "sysMeta": {
+                            "createdAt": "2017-09-29T03:33:35.965Z",
+                            "updatedAt": "2017-09-29T03:33:35.965Z",
+                            "contentType": "caseStudyKey"
+                        }
+                    },
+                    {
+                        "keyEntryTitle": "The Result - TaylorHill",
+                        "keyTitle": "The Result",
+                        "keyBody": "\u201cOur customers have really benefited from the use of View My Chain in that we have been able to communicate clear, precise information, which can be relied upon. They have also benefitted from a quicker, smoother transaction. View My Chain can really help us have a competitive edge \u2013 if we improve our transaction speed and also the information we deliver to our clients it will really set us apart.\u201d",
+                        "sysMeta": {
+                            "createdAt": "2017-09-29T03:34:05.960Z",
+                            "updatedAt": "2017-09-29T03:34:05.960Z",
+                            "contentType": "caseStudyKey"
+                        }
+                    }
+                ],
+                "caseStudyBody": "<iframe src=\"https:\/\/player.vimeo.com\/video\/210830644\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe>",
+                "category": {
+                    "categoryTitle": "Case Study",
+                    "categorySlug": "case-studies",
+                    "sysMeta": {
+                        "createdAt": "2017-07-06T04:43:01.461Z",
+                        "updatedAt": "2017-07-06T04:43:01.461Z",
+                        "contentType": "category"
+                    }
+                },
+                "modelType": "Post",
+                "sectionType": "CaseStudyPost",
+                "sysMeta": {
+                    "createdAt": "2017-06-19T10:55:25.740Z",
+                    "updatedAt": "2017-09-29T03:35:39.928Z",
+                    "contentType": "caseStudy"
+                }
+            },
+            "blockClass": "feature-post feature-case-study",
+            "sectionType": "FeatureCaseStudySection",
+            "sysMeta": {
+                "createdAt": "2022-01-05T09:14:14.475Z",
+                "updatedAt": "2022-01-05T09:14:14.475Z",
+                "contentType": "blockFeatureCaseStudy"
+            }
+        },
+        {
+            "bannerEntryTitle": "Banner  - Ready to delight home buyers?",
+            "bannerTitle": "Ready to delight home buyers?",
+            "bannerCtAs": [
+                {
+                    "ctaEntryTitle": "CTA - Banner - Watch video",
+                    "ctaType": "video",
+                    "ctaText": "Watch video",
+                    "ctaUrl": "https:\/\/player.vimeo.com\/video\/564358648",
+                    "ctaClass": "cta-video is-medium",
+                    "sysMeta": {
+                        "createdAt": "2017-05-12T10:29:00.816Z",
+                        "updatedAt": "2022-01-07T09:43:08.041Z",
+                        "contentType": "cta"
+                    }
+                }
+            ],
+            "sectionType": "BannerSection",
+            "sysMeta": {
+                "createdAt": "2017-05-15T07:50:12.138Z",
+                "updatedAt": "2022-01-07T02:50:05.961Z",
+                "contentType": "banner"
+            }
+        }
+    ],
+    "pageTemplate": "case-studies",
+    "slug": "case-studies",
+    "sysMeta": {
+        "createdAt": "2017-06-16T04:10:40.742Z",
+        "updatedAt": "2022-01-05T09:14:42.384Z",
+        "contentType": "page"
+    }
+}
